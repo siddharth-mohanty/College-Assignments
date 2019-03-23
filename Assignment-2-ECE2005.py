@@ -1,5 +1,15 @@
 #!/usr/bin/env python
 # coding: utf-8
+"""
+Q.1: Generate a sequence of random binary digits.
+Q.2: Generate a sequence of Gaussian Noise.
+Q.3: Find mean and autocorrelation of both.
+Q.4: Are they Wide State Stationary, ergodic and stationary?
+Q.5: Add both sequences and find 3 and 4?
+Q.6: Find cross-correlation for 1 and 2?
+Q.7: Find Power Spectral Density of 1,2,5.
+
+"""
 
 # In[24]:
 
